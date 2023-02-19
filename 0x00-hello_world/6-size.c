@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - A program that prints various computer types sizes
- * Return 0 (success)
+ * Return: 0 (success)
  */
+
 int main(void)
 {
 	char a;
